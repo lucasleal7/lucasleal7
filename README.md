@@ -23,9 +23,9 @@
 
 ## 📊 Professional Experience.
 
-- **Junior Data and BI Analyst** Alares Internet (October 2025 - Present)
+- **Junior Data and BI Analyst** - Alares Internet (October 2025 - Present)
   
-- **Smart Solutions** Alares Internet (July 2025 - October 2025)
+- **Smart Solutions** - Alares Internet (July 2025 - October 2025)
   - Providing remote support to customers on Level 2 (L2) technical issues.
   - Provisioning and configuring equipment for smart condominium systems.
   - Providing personalized service and managing high-value accounts.
@@ -34,7 +34,7 @@
   - Clarifying doubts and providing financial information to customers.
   - Activating telephony services, extensions (phone lines), and CCTV systems in smart condominiums.
 
-- **Call Center Operator** Alares Internet (January 2025 - July 2025)
+- **Call Center Operator** - Alares Internet (January 2025 - July 2025)
   - Provide remote support to customers regarding technical, administrative, and commercial aspects.
   - Diagnose and guide users in resolving primary network failures.
   - Clarify doubts and provide financial information.
